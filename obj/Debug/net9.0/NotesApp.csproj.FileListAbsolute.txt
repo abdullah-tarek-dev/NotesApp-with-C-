@@ -1,0 +1,14 @@
+D:\2026\backend\c#\NotesApp\bin\Debug\net9.0\NotesApp.exe
+D:\2026\backend\c#\NotesApp\bin\Debug\net9.0\NotesApp.deps.json
+D:\2026\backend\c#\NotesApp\bin\Debug\net9.0\NotesApp.runtimeconfig.json
+D:\2026\backend\c#\NotesApp\bin\Debug\net9.0\NotesApp.dll
+D:\2026\backend\c#\NotesApp\bin\Debug\net9.0\NotesApp.pdb
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\NotesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\NotesApp.AssemblyInfoInputs.cache
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\NotesApp.AssemblyInfo.cs
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\NotesApp.csproj.CoreCompileInputs.cache
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\NotesApp.dll
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\refint\NotesApp.dll
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\NotesApp.pdb
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\NotesApp.genruntimeconfig.cache
+D:\2026\backend\c#\NotesApp\obj\Debug\net9.0\ref\NotesApp.dll
